@@ -1,6 +1,6 @@
 NOTICE — 仓库声明 / Repository Statement
 
-本仓库 jelly-lab-clone 由 sukikeeling 创作并维护。
+本仓库 jelly-lab 由 sukikeeling 创作并维护。
 
 实现方式说明：本仓库是依据公开截图独立复刻的实现，未复制参考项目的
 任何代码；开发过程中仅参考了公开的源仓库资料。仓库内第三方库
@@ -9,15 +9,15 @@ NOTICE — 仓库声明 / Repository Statement
 任何参考、借鉴、移植或改造本仓库自有实现的行为，在后续发布、演示
 或分发时，都必须在显著位置标明参考来源：
 
-    参考自 sukikeeling/jelly-lab-clone
-    https://github.com/sukikeeling/jelly-lab-clone
+    参考自 sukikeeling/jelly-lab
+    https://github.com/sukikeeling/jelly-lab
 
 请勿抹去来源、或对外宣称完全为本人独立原创。
 本声明与本仓库的 LICENSE 并列生效。
 
 ---
 
-This repository, jelly-lab-clone, was created and is maintained by
+This repository, jelly-lab, was created and is maintained by
 sukikeeling.
 
 Implementation note: this is an independent recreation built from
@@ -30,8 +30,8 @@ Any work that references, adapts, ports, or modifies this repository's
 own implementation MUST clearly credit the source in any subsequent
 publication, demo, or distribution:
 
-    Derived from / inspired by sukikeeling/jelly-lab-clone
-    https://github.com/sukikeeling/jelly-lab-clone
+    Derived from / inspired by sukikeeling/jelly-lab
+    https://github.com/sukikeeling/jelly-lab
 
 Do not remove this attribution or claim the work as entirely your own
 original creation. This statement stands alongside this repository's
